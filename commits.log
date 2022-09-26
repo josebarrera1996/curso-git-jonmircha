@@ -1,0 +1,98 @@
+commit c7060ecac2b53fb064c0f3b2fbf80647a6721134
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Wed Sep 21 09:38:39 2022 -0300
+
+    Agregando 2 párrafos
+
+commit 2a78539a6863b2e4190d68e2eab21293d10de333
+Merge: fcb6bf7 d164f33
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Wed Sep 21 09:35:59 2022 -0300
+
+    Resolviendo conflicto en estaciones del año y sus fechas de inicio
+
+commit fcb6bf76e73c6d16ef8e5c8038867d8375eb1b50
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Wed Sep 21 09:20:14 2022 -0300
+
+    Agregando estaciones del año con sus fechas de inicio
+
+commit d164f338ffd482cda9d97b4be6d5f7a1e4f18983
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Wed Sep 21 09:20:14 2022 -0300
+
+    Agregando estaciones del año
+
+commit 1ba0e6869058b44073de90431c97b82b0405c6e1
+Merge: 05ce6ec cd01397
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Mon Sep 19 09:02:24 2022 -0300
+
+    Resolviendo conflictos merge master/html en el documento index.html
+
+commit cd01397ca9da327097c38629288f5f346a511670
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Mon Sep 19 08:54:48 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 05ce6ecef0b96f6d6d42e41fa6b2360079f9e95c
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Mon Sep 19 08:52:42 2022 -0300
+
+    Agregando más contenido al index.html
+
+commit a4f7c5fe0059713235e62c1fbe5de19379365311
+Merge: c666f20 2844a12
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Mon Sep 19 08:39:49 2022 -0300
+
+    Merge branch 'javascript'
+
+commit 2844a12e5b098012f15e413348f365480ad6e64a
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Fri Sep 16 09:22:39 2022 -0300
+
+    Creando index.js
+
+commit c666f2074579776c7e55a2e0f2b7a04db7480a01
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Fri Sep 16 09:17:54 2022 -0300
+
+    Creando styles.css
+
+commit 950594b1eed27c1eb29e1b2f698004c861c95254
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Fri Sep 16 09:07:08 2022 -0300
+
+    Creando archivo index.html
+
+commit 3efe2508b05ca14b3800c356bd0260fa8a9e68bd
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Wed Sep 14 09:11:15 2022 -0300
+
+    Ignorando archivos .exe
+
+commit b3cd6423752aeac0e2518d2e8542a38271d3e067
+Author: josebarrera1996 <96344957+josebarrera1996@users.noreply.github.com>
+Date:   Mon Sep 12 06:46:56 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 85ee0d119761b52a401d564a3b2b5adeeee77efa
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Fri Sep 9 09:25:46 2022 -0300
+
+    Agregando más contenido al README
+
+commit 79768b1f9cc4db5231b0d1c2e10fe9fd200fac74
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Fri Sep 9 09:15:12 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit 53316ef3d228931a60b7875cbe00d09bcc12ff57
+Author: José Barrera <josebarrerag1996@gmail.com>
+Date:   Fri Sep 9 09:09:51 2022 -0300
+
+    Primmer commit
